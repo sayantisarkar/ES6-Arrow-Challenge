@@ -1,7 +1,7 @@
 {
-  "name": "es6-arrow-functions",
+  "name": "es6-arrow-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Converting old emojipedia with es6 arrow",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
